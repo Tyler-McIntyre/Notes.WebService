@@ -6,21 +6,18 @@ Pull and build this application is Visual Studio/VS Code. This application will 
 This web api was built using [json-flatfile-datastore](https://github.com/ttu/json-flatfile-datastore) and [swagger](https://github.com/swagger-api)
 
 ## **Notes.WebService Swagger**
-<hr>
 ```
 http://localhost:2293/index.html
 ```
 ![Swagger page](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/Swagger.JPG?raw=true)
 
 ## **GET All Notes**
-<hr>
 ```
 http://localhost:2293/api/Notes
 ```
 ![PostMan All Notes](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/GetAllNotes.JPG?raw=true)
 
 ## **PUT Insert Note**
-<hr>
 ```
 http://localhost:2293/api/Notes
 ```
@@ -37,7 +34,6 @@ http://localhost:2293/api/Notes
    
 
 ## **POST Update Note**
-<hr>
 ```
 http://localhost:2293/api/Notes
 ```
@@ -52,7 +48,6 @@ http://localhost:2293/api/Notes
 
 
 ## **GET Retrieve Note**
-<hr>
 ```
 http://localhost:2293/api/Notes/{NoteId}
 ```
@@ -60,7 +55,6 @@ http://localhost:2293/api/Notes/{NoteId}
 
 
 ## **DELETE Note**
-<hr>
 ```
 http://localhost:2293/api/Notes/{NoteId}
 ```
