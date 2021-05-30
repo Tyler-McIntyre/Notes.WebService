@@ -5,19 +5,22 @@ Pull and build this application is Visual Studio/VS Code. This application will 
 
 This web api was built using [json-flatfile-datastore](https://github.com/ttu/json-flatfile-datastore) and [swagger](https://github.com/swagger-api)
 
-##Notes.WebService Swagger
+## **Notes.WebService Swagger**
+<hr>
 ```
 http://localhost:2293/index.html
 ```
 ![Swagger page](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/Swagger.JPG?raw=true)
 
-##GET All Notes
+## **GET All Notes**
+<hr>
 ```
 http://localhost:2293/api/Notes
 ```
 ![PostMan All Notes](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/GetAllNotes.JPG?raw=true)
 
-##PUT Insert Note
+## **PUT Insert Note**
+<hr>
 ```
 http://localhost:2293/api/Notes
 ```
@@ -33,7 +36,8 @@ http://localhost:2293/api/Notes
 ![PostMan PUT](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/PUT.JPG?raw=true)
    
 
-##POST Update Note
+## **POST Update Note**
+<hr>
 ```
 http://localhost:2293/api/Notes
 ```
@@ -47,14 +51,16 @@ http://localhost:2293/api/Notes
 ![PostMan Update](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/Post.JPG?raw=true)
 
 
-##GET Retrieve Note
+## **GET Retrieve Note**
+<hr>
 ```
 http://localhost:2293/api/Notes/{NoteId}
 ```
 ![PostMan Retrieve](https://github.com/Tmc802/Notes.WebService/blob/master/Notes.WebService%20Images/GetRetieveNote.JPG?raw=true)
 
 
-##DELETE Note
+## **DELETE Note**
+<hr>
 ```
 http://localhost:2293/api/Notes/{NoteId}
 ```
