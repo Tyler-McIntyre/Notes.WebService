@@ -1,0 +1,5 @@
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\netcoreapp3.0\Notes.WebService.csproj.AssemblyReference.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\netcoreapp3.0\Notes.WebService.AssemblyInfoInputs.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\netcoreapp3.0\Notes.WebService.AssemblyInfo.cs
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\netcoreapp3.0\Notes.WebService.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\netcoreapp3.0\Notes.WebService.MvcApplicationPartsAssemblyInfo.cache

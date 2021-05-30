@@ -1,0 +1,6 @@
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.csproj.AssemblyReference.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.AssemblyInfoInputs.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.AssemblyInfo.cs
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.csproj.CoreCompileInputs.cache
+C:\Users\tmcin\source\repos\Notes.WebService\Notes.WebService\obj\Debug\net5.0\Notes.WebService.MvcApplicationPartsAssemblyInfo.cache
